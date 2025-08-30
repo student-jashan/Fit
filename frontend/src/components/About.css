@@ -1,0 +1,29 @@
+.about-section {
+  background-color: #f8f9fa;
+}
+
+.stat-number {
+  color: #ff5a1f;
+  font-weight: bold;
+}
+
+/* CTA Section */
+.cta-section {
+  background: linear-gradient(90deg, #ff5a1f, #e63946);
+}
+
+.cta-btn {
+  font-weight: bold;
+  padding: 10px 25px;
+  border-radius: 8px;
+}
+
+/* Footer */
+.footer-section {
+  background-color: #0d1b2a;
+}
+
+.footer-section .logo-icon {
+  color: #ff5a1f;
+  margin-right: 5px;
+}

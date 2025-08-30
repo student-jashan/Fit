@@ -1,0 +1,19 @@
+.motivation-card {
+  border-radius: 12px;
+  padding: 20px;
+  background-color: #fff;
+  transition: transform 0.3s ease;
+}
+
+.motivation-card:hover {
+  transform: translateY(-5px);
+}
+
+.quote-icon {
+  font-size: 28px;
+  color: #ff5a1f;
+}
+
+.text-orange {
+  color: #ff5a1f;
+}
