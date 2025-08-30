@@ -1,0 +1,9 @@
+flask
+flask_sqlalchemy
+flask_bcrypt
+flask_jwt_extended
+flask_cors
+psycopg2-binary
+python-dotenv
+
+# pip install -r requirements.txt(just add this command in terminal)
